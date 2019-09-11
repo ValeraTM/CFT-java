@@ -1,2 +1,2 @@
 # CFT
-Инструкция по запуску: java -jar mergeSort.jar
+Инструкция по запуску: java -jar mergeSort.jar [OPTION]... [OUTPUTFILE] [INPUTFILE]...
